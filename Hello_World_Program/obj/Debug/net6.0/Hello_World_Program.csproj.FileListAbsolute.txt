@@ -1,0 +1,15 @@
+H:\236\Hello_World_Program\Hello_World_Program\bin\Debug\net6.0\Hello_World_Program.exe
+H:\236\Hello_World_Program\Hello_World_Program\bin\Debug\net6.0\Hello_World_Program.deps.json
+H:\236\Hello_World_Program\Hello_World_Program\bin\Debug\net6.0\Hello_World_Program.runtimeconfig.json
+H:\236\Hello_World_Program\Hello_World_Program\bin\Debug\net6.0\Hello_World_Program.dll
+H:\236\Hello_World_Program\Hello_World_Program\bin\Debug\net6.0\Hello_World_Program.pdb
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.csproj.AssemblyReference.cache
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.GeneratedMSBuildEditorConfig.editorconfig
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.AssemblyInfoInputs.cache
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.AssemblyInfo.cs
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.csproj.CoreCompileInputs.cache
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.dll
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\refint\Hello_World_Program.dll
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.pdb
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\Hello_World_Program.genruntimeconfig.cache
+H:\236\Hello_World_Program\Hello_World_Program\obj\Debug\net6.0\ref\Hello_World_Program.dll
